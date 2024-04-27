@@ -1,0 +1,542 @@
+{
+    "frame": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        66,
+        67,
+        68,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        99,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128
+    ],
+    "query": [
+        [
+            "the child's face",
+            "teaching a child how to play with a toy"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ],
+        [
+            "the child's face",
+            "teaching a child how to use a chair"
+        ],
+        [
+            "the child's chair",
+            "helping a child with a chair"
+        ],
+        [
+            "the child's hand",
+            "helping a child with a chair"
+        ],
+        [
+            "the child's hand",
+            "helping a child with a toy"
+        ],
+        [
+            "the child's hand",
+            "helping a child with autism"
+        ],
+        [
+            "the child's hand",
+            "helping a child with his chair"
+        ],
+        [
+            "the child's hand",
+            "helping a child with a chair"
+        ],
+        [
+            "the child's hands",
+            "the adult is helping the child to sit in the"
+        ],
+        [
+            "the child's face",
+            "helping a child with a chair"
+        ],
+        [
+            "the child's hand",
+            "helping a child with a chair"
+        ],
+        [
+            "the child's hand",
+            "the adult is helping the child to sit in the"
+        ],
+        [
+            "the child's hand",
+            "helping a child with a chair"
+        ],
+        [
+            "the child's hand",
+            "helping a child with a chair"
+        ],
+        [
+            "the child's chair",
+            "helping a child with a chair"
+        ],
+        [
+            "the child's face",
+            "helping a child with a chair"
+        ],
+        [
+            "the child's face",
+            "helping a child with a chair"
+        ],
+        [
+            "the child's hand",
+            "the adult is helping the child"
+        ],
+        [
+            "the child's mouth",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "teaching a child how to use a chair"
+        ],
+        [
+            "the child's face",
+            "teaching a child to sit in a chair"
+        ],
+        [
+            "the child's face",
+            "helping a child with autism"
+        ],
+        [
+            "the child's face",
+            "helping a child with a toy"
+        ],
+        [
+            "the child's face",
+            "teaching a child how to sit in a chair"
+        ],
+        [
+            "the child in the chair",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "teaching a child how to read"
+        ],
+        [
+            "a child's face",
+            "helping a child with a toy"
+        ],
+        [
+            "the child's face",
+            "helping a child with a toy"
+        ],
+        [
+            "the child's mouth",
+            "the adult is helping the child to sit in the"
+        ],
+        [
+            "the child's face",
+            "teaching a child how to use a chair"
+        ],
+        [
+            "the child's desk",
+            "cleaning up the child's mess"
+        ],
+        [
+            "the child's face",
+            "teaching a child how to use a chair"
+        ],
+        [
+            "the child's chair",
+            "teaching a child how to use a chair"
+        ],
+        [
+            "the child sitting in the chair",
+            "teaching a child how to sit in a chair"
+        ],
+        [
+            "the child's chair",
+            "teaching a child how to use a chair"
+        ],
+        [
+            "the child sitting in the chair",
+            "she is helping the child to sit in the chair"
+        ],
+        [
+            "the child's face",
+            "she is helping the child with his chair"
+        ],
+        [
+            "the child's head",
+            "she is playing with the child"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's hands",
+            "helping a child with a chair"
+        ],
+        [
+            "the child's face",
+            "helping a child with autism"
+        ],
+        [
+            "the child's face",
+            "the adult is sitting in a chair with a child"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's feet",
+            "helping a child with his shoes"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ],
+        [
+            "the child's face",
+            "teaching a child to play the drums"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "she is playing with the child"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "she is helping the child with his hearing aid"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ],
+        [
+            "the child's face",
+            "helping a child with a toy"
+        ],
+        [
+            "the child's face",
+            "she is helping the child to wash his hands"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ],
+        [
+            "the child's face",
+            "she is playing with the child"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ],
+        [
+            "the child's hands",
+            "playing with a child"
+        ],
+        [
+            "the child's hands",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "helping a child with a sensory integration disorder"
+        ],
+        [
+            "the child's hands",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ],
+        [
+            "the child",
+            "playing with a child"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ],
+        [
+            "the child's face",
+            "she is playing with a child"
+        ],
+        [
+            "the child's hands",
+            "playing with a child"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ],
+        [
+            "the child's face",
+            "playing with the child"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ],
+        [
+            "the child",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "helping a child with a toy"
+        ],
+        [
+            "the child's face",
+            "the adult is playing with the child"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ],
+        [
+            "the child's face",
+            "playing with the child"
+        ],
+        [
+            "the child's face",
+            "playing with a child"
+        ]
+    ],
+    "emotion": [
+        "happy",
+        "happy",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "happy",
+        "happy",
+        "happy",
+        "surprise",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "happy",
+        "neutral",
+        "happy",
+        "happy",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "neutral",
+        "happy",
+        "happy",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "happy",
+        "happy",
+        "happy",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "happy",
+        "neutral",
+        "happy",
+        "happy",
+        "happy",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "happy",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "happy",
+        "happy",
+        "neutral"
+    ]
+}

@@ -1,0 +1,446 @@
+{
+    "frame": [
+        26,
+        28,
+        29,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        43,
+        44,
+        45,
+        46,
+        47,
+        49,
+        50,
+        54,
+        55,
+        56,
+        57,
+        58,
+        61,
+        62,
+        63,
+        65,
+        66,
+        67,
+        77,
+        78,
+        79,
+        80,
+        83,
+        84,
+        86,
+        87,
+        88,
+        90,
+        91,
+        92,
+        93,
+        94,
+        96,
+        97,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        115,
+        116,
+        117,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128
+    ],
+    "query": [
+        [
+            " child's hands",
+            "he is playing with a toy"
+        ],
+        [
+            " child in the blue",
+            "the child is playing with a toy in a classroom"
+        ],
+        [
+            " child in the chair",
+            "he is playing with the child in the classroom"
+        ],
+        [
+            " woman's hand",
+            "he is playing with his mother"
+        ],
+        [
+            " child's hand",
+            "the child is playing with a toy in a classroom"
+        ],
+        [
+            " teacher",
+            "he is playing with a toy"
+        ],
+        [
+            " teacher",
+            "he is playing with his mother"
+        ],
+        [
+            " teacher",
+            "he is playing with a toy"
+        ],
+        [
+            " woman's hands",
+            "he is sitting in a chair"
+        ],
+        [
+            " child sitting in the",
+            "the child is sitting in a chair"
+        ],
+        [
+            " child's hands",
+            "the child is sitting in a chair and the woman"
+        ],
+        [
+            " teacher",
+            "he is playing with his mother"
+        ],
+        [
+            " teacher",
+            "the child is sitting in a chair and the woman"
+        ],
+        [
+            " child's hands",
+            "he is playing with his mother"
+        ],
+        [
+            " child's teacher",
+            "he is playing with a toy chair"
+        ],
+        [
+            " child's teacher",
+            "he is sitting in a chair"
+        ],
+        [
+            " teacher",
+            "he is sitting in a chair"
+        ],
+        [
+            " teacher",
+            "he is playing with his mother"
+        ],
+        [
+            " teacher",
+            "he is playing with his mother"
+        ],
+        [
+            " teacher",
+            "he is playing with his teacher"
+        ],
+        [
+            " woman's face",
+            "he is playing with a toy"
+        ],
+        [
+            " child in the room",
+            "he is playing with his toys"
+        ],
+        [
+            " child's teacher",
+            "he is playing with a toy"
+        ],
+        [
+            " child's face",
+            "the child is playing with a toy"
+        ],
+        [
+            " teacher",
+            "he is playing with a toy"
+        ],
+        [
+            " teacher",
+            "he is playing with his toys"
+        ],
+        [
+            " child in the chair",
+            "he is playing with a toy"
+        ],
+        [
+            " child in the chair",
+            "he is playing with a toy"
+        ],
+        [
+            " child in the chair",
+            "he is playing with a toy chair"
+        ],
+        [
+            " child in the chair",
+            "he is playing with a toy"
+        ],
+        [
+            " child sitting on the",
+            "he is playing with a toy"
+        ],
+        [
+            " child's hands",
+            "he is playing with a toy"
+        ],
+        [
+            " woman's face",
+            "he is sitting in a chair and talking to a"
+        ],
+        [
+            " woman",
+            "he is playing with a toy"
+        ],
+        [
+            " woman",
+            "he is playing with a toy"
+        ],
+        [
+            " woman's feet",
+            "he is playing with a toy"
+        ],
+        [
+            " woman's face",
+            "he is playing with a toy"
+        ],
+        [
+            " child's face",
+            "he is playing with a toy"
+        ],
+        [
+            " woman",
+            "he is playing with a toy"
+        ],
+        [
+            " woman's face",
+            "he is playing with a toy"
+        ],
+        [
+            " child's hands",
+            "he is playing with a toy"
+        ],
+        [
+            " woman's face",
+            "he is playing with bubbles"
+        ],
+        [
+            " toy",
+            "he is playing with a toy"
+        ],
+        [
+            " toy",
+            "he is playing with a toy"
+        ],
+        [
+            " toy",
+            "he is playing with a toy"
+        ],
+        [
+            " toy",
+            "he is playing with a toy"
+        ],
+        [
+            " toy",
+            "the child is playing with a toy"
+        ],
+        [
+            " child's reflection in",
+            "he is playing with his mother"
+        ],
+        [
+            " toy",
+            "playing with a toy"
+        ],
+        [
+            " toy",
+            "he is playing with a toy"
+        ],
+        [
+            " toy",
+            "he is playing with a toy"
+        ],
+        [
+            " toy",
+            "he is playing with a toy"
+        ],
+        [
+            " toy",
+            "playing with a toy"
+        ],
+        [
+            " child's hands",
+            "he is playing with his toys"
+        ],
+        [
+            " teacher",
+            "he is playing with a toy"
+        ],
+        [
+            " toy",
+            "the child is playing with a toy"
+        ],
+        [
+            " toy",
+            "playing with a toy"
+        ],
+        [
+            " teacher",
+            "he is playing with his toys"
+        ],
+        [
+            " toy",
+            "he is playing with a toy"
+        ],
+        [
+            " woman",
+            "he is playing with a toy"
+        ],
+        [
+            " woman's face",
+            "he is playing with a toy"
+        ],
+        [
+            " toy",
+            "playing with toys"
+        ],
+        [
+            " toy",
+            "he is playing with a toy"
+        ],
+        [
+            " toy",
+            "playing with the toy"
+        ],
+        [
+            " toy",
+            "playing with a toy"
+        ],
+        [
+            " child",
+            "he is playing with his toys"
+        ],
+        [
+            " toy",
+            "he is playing with his toys"
+        ],
+        [
+            " toy",
+            "he is playing with his toy"
+        ],
+        [
+            " toy",
+            "he is playing with a toy"
+        ],
+        [
+            " child's hand",
+            "he is playing with a toy"
+        ],
+        [
+            " toy",
+            "he is playing with a toy"
+        ],
+        [
+            " child in the video",
+            "playing with a toy"
+        ],
+        [
+            " toy",
+            "he is playing with a toy"
+        ]
+    ],
+    "emotion": [
+        "happy",
+        "happy",
+        "happy",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "surprise",
+        "surprise",
+        "happy",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "surprise",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "happy",
+        "happy",
+        "happy",
+        "happy",
+        "happy",
+        "neutral",
+        "surprise",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral",
+        "happy",
+        "happy",
+        "neutral",
+        "neutral",
+        "happy",
+        "happy",
+        "neutral",
+        "happy"
+    ]
+}
